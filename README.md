@@ -1,5 +1,5 @@
 # HorizonJS
-A simple small js framework made to help me right more structured, readable code
+A simple small js framework made to help me write more structured, readable code
 
 ## What it is:
 Horizon is not ment to compete with other javascript major frameworks, like Angular, React etc, at least at this point. 
