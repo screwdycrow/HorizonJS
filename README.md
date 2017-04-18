@@ -11,6 +11,6 @@ There is also an in-built custom templating system built upon es6
 template-strings. 
 
 As you can expect this small framework tthat argets modern browsers that utilize es6 new features. It goes without saying that it will not work 
-on Internet Explorer (we should help into let IE rest in peace)  
+on Internet Explorer (we should help to let IE rest in peace)  
 
 More info, code commenting / documentation, and examples will come in the next few days. 
